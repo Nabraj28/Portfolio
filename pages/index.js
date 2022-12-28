@@ -60,7 +60,7 @@ export default function Home() {
             <AiFillFacebook />
             </a>
           </div>
-          <div className=' mx-auto bg-gradient-to-b from-white rounded-full w-70 h-70 mt-20 overflow-hidden md:h-96 md:w-96 fill-current object-cover'>
+          <div className=' mx-auto bg-gradient-to-b from-white rounded-full w-70 h-70 mb-10 mt-20 overflow-hidden md:h-96 md:w-96 fill-current object-cover'>
             <Image src={nabraj} />
           </div>
         </section>
